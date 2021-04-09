@@ -1,0 +1,13 @@
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\obj\Debug\netcoreapp3.1\DIO.Bank.Marllam.csprojAssemblyReference.cache
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\obj\Debug\netcoreapp3.1\DIO.Bank.Marllam.AssemblyInfoInputs.cache
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\obj\Debug\netcoreapp3.1\DIO.Bank.Marllam.AssemblyInfo.cs
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\obj\Debug\netcoreapp3.1\DIO.Bank.Marllam.csproj.CoreCompileInputs.cache
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\bin\Debug\netcoreapp3.1\DIO.Bank.Marllam.exe
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\bin\Debug\netcoreapp3.1\DIO.Bank.Marllam.deps.json
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\bin\Debug\netcoreapp3.1\DIO.Bank.Marllam.runtimeconfig.json
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\bin\Debug\netcoreapp3.1\DIO.Bank.Marllam.runtimeconfig.dev.json
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\bin\Debug\netcoreapp3.1\DIO.Bank.Marllam.dll
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\bin\Debug\netcoreapp3.1\DIO.Bank.Marllam.pdb
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\obj\Debug\netcoreapp3.1\DIO.Bank.Marllam.dll
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\obj\Debug\netcoreapp3.1\DIO.Bank.Marllam.pdb
+C:\Users\marll\Desktop\C#Examples\Dio Bank Marllam\obj\Debug\netcoreapp3.1\DIO.Bank.Marllam.genruntimeconfig.cache
